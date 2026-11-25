@@ -1,108 +1,62 @@
 <!-- HERO -->
 
-<h1 align="center">Zula</h1>
+<h1 align="center">Unax Zulaika Fuente · Zula</h1>
 <p align="center">
-Software Systems Engineer · Product Builder · Local-first Architecture
+Software Systems Engineer · Product Builder · Local-first Architecture · Bilbao, Spain
 </p>
 
 <p align="center">
-Building secure, interactive and system-driven software experiences.
+I build secure, local-first software and ship it end to end: from architecture to store listings.
 </p>
 
 <p align="center">
-<a href="https://zulaa9.github.io">
-Explore my System Portfolio →
-</a>
+<a href="https://zula.dev"><b>zula.dev</b></a>
+ · 
+<a href="https://keyping.zula.dev">KeyPing</a>
+ · 
+<a href="https://framewise.zula.dev">Framewise</a>
+ · 
+<a href="https://zula.dev/work/">Need a website or a tool? Let's talk →</a>
 </p>
 
 ---
 
-## 🧠 Engineering Focus
+## ⭐ KeyPing: local password manager
 
-I design and build software as **systems**, not just applications.
+**[keyping.zula.dev](https://keyping.zula.dev)** · [Repository](https://github.com/Zulaa9/KeyPing) · [Microsoft Store](https://apps.microsoft.com/detail/9N168Z5TZT05)
 
-My work focuses on:
+A free, open-source password manager that keeps everything on your device: no account, no cloud. Each entry carries the link to change that password, one click away.
 
-- Local-first product architecture  
-- Security-driven UX and data integrity  
-- Interactive system interfaces  
-- End-to-end product ownership  
-- Desktop + Web integrated experiences  
+- **Platforms:** Windows (Microsoft Store or installer), Linux (AppImage) and Android
+- **Security:** local encrypted vault (AES-256-GCM), reuse and similarity detection, versioned password history, security scoring
+- **Distribution:** signed auto-updates (Ed25519), Microsoft Store package, Android app sharing the same vault format
+- **Stack:** Angular · Electron · Capacitor · TypeScript
 
-I care about how software behaves as a **living system**, not just how it looks.
+## 🎞️ Framewise: frame-by-frame video control
 
----
+**[framewise.zula.dev](https://framewise.zula.dev)** · [Repository](https://github.com/Zulaa9/framewise) · [Chrome Web Store](https://chromewebstore.google.com/detail/framewise/mkpljcojmhhmkpamcdecnmjbndbabfae) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/framewise/ppfmagbmfpeldadpbhbknlffhfnnhgee) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/framewise/)
 
-## ⭐ Flagship Product — KeyPing
+A browser extension for any web video: step one frame at a time, change playback speed, pop out a floating window, capture the current frame and boost volume past 100%. Nothing leaves your browser.
 
-**KeyPing** is a desktop application focused on password hygiene and vault intelligence.
+## 🌌 Portfolio: System Core
 
-It is not a browser autofill tool.  
-It is a **local security system for password analysis and lifecycle control.**
+**[zula.dev](https://zula.dev)** · [Repository](https://github.com/Zulaa9/portfolio)
 
-Core concepts:
+My portfolio, built as an interactive **System Core**: projects and modules are nodes in an engineering map. Static Astro site, bilingual (EN/ES), no cookies or trackers, with adoption figures pulled from public sources at build time.
 
-- Local-first encrypted vault (AES-256-GCM)  
-- Similarity & reuse detection engine  
-- Versioned password history  
-- Security scoring and risk analytics  
-- Intelligent encrypted import / merge  
-- Guided onboarding and demo runtime  
-- Auto-update desktop distribution pipeline  
+## 🛠️ In development: Nemulo
 
-Tech stack:
-
-- Angular (standalone architecture)  
-- Electron secure sandbox environment  
-- IPC-driven local backend logic  
-- Custom i18n runtime  
-- Electron Builder release system  
-
-This project represents my approach to:
-
-→ product engineering  
-→ security thinking  
-→ UX as system feedback  
-→ architecture beyond CRUD  
+A bookings and management platform for local businesses (Angular · NestJS · PostgreSQL).
 
 ---
 
 ## 🧩 Engineering Domains
 
-### Product Engineering  
-Angular · Electron · .NET · TypeScript  
-
-### Systems Thinking  
-Application architecture · state flows · modular UI systems  
-
-### Security & Data Integrity  
-Encryption flows · vault logic · risk modeling · local trust boundaries  
-
-### Desktop Runtime Design  
-Native-like UX · updater pipelines · sandbox isolation  
-
-### Tooling & Infra  
-Git · Docker · build pipelines · distribution workflows  
-
----
-
-## 🌌 Portfolio System
-
-I built an interactive portfolio structured as a **System Core interface**.
-
-Instead of traditional pages, projects and modules exist as:
-
-→ nodes in an interactive engineering system  
-
-This portfolio represents:
-
-- how I think about architecture  
-- how I design interaction  
-- how I present technical narrative  
-
-Explore it here:
-
-👉 https://zulaa9.github.io  
+**Product Engineering:** Angular · Electron · Capacitor · NestJS · .NET · TypeScript  
+**Systems Thinking:** application architecture · state flows · modular UI systems  
+**Security & Data Integrity:** encryption flows · vault logic · local trust boundaries · signed updates  
+**Distribution:** Microsoft Store · browser extension stores · Android · auto-update pipelines  
+**Tooling & Infra:** Git · Docker · CI/CD · Cloudflare Pages
 
 ---
 
@@ -118,11 +72,9 @@ Explore it here:
 ## 🤝 Contact
 
 <p align="center">
-<a href="https://www.linkedin.com/in/unax-zulaika-fuente/">
-LinkedIn
-</a>
+<a href="https://zula.dev/work/">Let's talk (zula.dev)</a>
  · 
-<a href="mailto:unax.zulaika.fuente@gmail.com">
-Email
-</a>
+<a href="https://www.linkedin.com/in/unax-zulaika-fuente/">LinkedIn</a>
+ · 
+<a href="mailto:unax.zulaika.fuente@gmail.com">Email</a>
 </p>
